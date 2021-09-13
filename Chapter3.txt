@@ -1,1 +1,3 @@
 THis is chapter 3, which is a work in progress 
+
+Adding some new features to chapter 3 , lETS BEGIN.
